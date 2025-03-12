@@ -19,9 +19,9 @@
 ## **Project Roadmap** 🚀
 
 ### **1. Setup Rust Backend**
-- [ ] Initialize Rust project
-- [ ] Install dependencies: `tokio`, `axum`, `tungstenite`, `serde`, `sqlx`
-- [ ] Create a **WebSocket endpoint** for real-time chat
+- [x] Initialize Rust project
+- [x] Install dependencies: `tokio`, `axum`, `tungstenite`, `serde`, `sqlx`
+- [x] Create a **WebSocket endpoint** for real-time chat
 - [ ] Store messages in **PostgreSQL**
 
 ### **2. Build React Native Frontend**
